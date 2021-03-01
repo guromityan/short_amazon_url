@@ -2,4 +2,5 @@
 
 This is Chrome extension.
 
-Copy the shortened URL of the Amazon product page to the clipboard.
+Click the extension icon to copy the shortened URL of the Amazon product page to your clipboard.
+
