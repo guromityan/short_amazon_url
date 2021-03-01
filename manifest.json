@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Short Amazon URL",
+  "description": "Copy the shortened URL of the Amazon product page to the clipboard.",
+  "version": "1.0.0",
+  "permissions": ["tabs"],
+  "browser_action": {
+    "default_icon": {
+      "16": "img/icon16.png",
+      "32": "img/icon32.png",
+      "128": "img/icon128.png"
+    },
+    "default_title": "Short Amazon URL",
+    "default_popup": "src/popup.html"
+  }
+}
